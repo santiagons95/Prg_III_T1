@@ -4,7 +4,7 @@
 # Docente: Carlos Alberto Gutierrez
 
 ```bash
-git clone <URL-DEL-REPOSITORIO>
+git clone [<https://github.com/santiagons95/Prg_III_T1>]
 cd DocuTrack
 dotnet run
 ```

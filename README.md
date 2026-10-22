@@ -54,7 +54,3 @@ Preorden, postorden y por niveles dependen de la forma del árbol y no sirven pa
 4. 3 eliminaciones (hoja, un hijo, raíz) con árbol tras cada una.
 5. Recorridos: preorden, inorden, postorden y por niveles.
 6. Árbol final, total de nodos y altura.
-
-## Entrega
-
-Etiquetar el commit final: `git tag release-unidad1 && git push --tags`.

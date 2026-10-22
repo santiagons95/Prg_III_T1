@@ -5,7 +5,7 @@
 
 ```bash
 git clone [<https://github.com/santiagons95/Prg_III_T1>]
-cd DocuTrack
+cd Prg_III_T1
 dotnet run
 ```
 
